@@ -37,7 +37,7 @@ movie-recommendation-system/
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
-git clone https://github.com/username/movie-recommendation-system.git
+git clone https://github.com/shubham3055/Movie-Recommendation-System.git
 cd movie-recommendation-system
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
